@@ -1,0 +1,12 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/app/application.js
+/app/templates.js
+
+# dependencies
+/app/vendor/*
+/node_modules
+
+# misc
+/.idea
